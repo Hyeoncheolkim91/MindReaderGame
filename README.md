@@ -1,7 +1,9 @@
 # MindReaderGame
-Mind Reader Game
 
-Set-up
+This is a small game that calculates a user's whole number less or equal to 63 throughout a series of questions. This game was developed on school term of spring of 2019, at UTD for SE3340.SEC503: Computer Architecture class.
+To Run the game you need to have MARS; we use version 4.5. Make sure all the files posted here are in the same folder. Then, under MARS settings make sure that the following option is marked: "Assemble all files in directory", this will allow MARS to use the MACROS file and any other file that the program may include and need to be run.
+
+# Set-up
 1.	All files must be in the same folder to be used in MARS MIPS environment
 2.	The MARS compilation mode must be set to Assemble all files in directory
 3.	Think of a number between 0-63
